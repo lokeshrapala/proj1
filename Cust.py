@@ -25,9 +25,9 @@ x=[c1,c2,c3]
 print("before sorting")
 for p in x:
     print(p)
-print("after sorting")
-x.sort(key=lambda c:c.cname,reverse=True)
-for q in x:
+#print("after sorting")
+#x.sort(key=lambda c:c.cname,reverse=True)
+#for q in x:
    # print(q)
-
-        
+#print("end")
+print("hello") 
