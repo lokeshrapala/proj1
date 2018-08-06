@@ -28,6 +28,6 @@ for p in x:
 print("after sorting")
 x.sort(key=lambda c:c.cname,reverse=True)
 for q in x:
-    print(q)
+   # print(q)
 
         
